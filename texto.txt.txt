@@ -1,3 +1,8 @@
+
+****** Texto ilustrativo copiado e colado de uma biblioteca JQuery apenas para o arquivo não ficar vazio ******
+
+
+
 Plug-in jQuery ativado por toque que permite criar um belo controle deslizante de carrossel responsivo.
 
 Visão geral

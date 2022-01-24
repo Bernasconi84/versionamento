@@ -1,0 +1,1 @@
+Arquivo adicionado de uma segunda Máquina(PC) apenas para melhor compreensão de como funciona a ferramenta de versionamento.
