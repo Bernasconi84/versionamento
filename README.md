@@ -1,10 +1,10 @@
 # versionamento
 Senai, aula de versionamento
 
-readme de exemplo (master)
+readme de exemplo (master) //Conteúdo ínicial.
 
-segunda branch    (Segunda branch)
-terceira branch   (terceira branch)
+segunda branch    (Segunda branch)  // segunda alteração.
+terceira branch   (terceira branch) // terceira alteração.
 
 
 Esclarecimentos
